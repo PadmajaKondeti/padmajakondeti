@@ -15,7 +15,7 @@ a.navbar-brand{
 ul.nav{
 	color:#6b4305;
 	font-size: 	1.5em;
-	z-index: auto;
+	z-index: auto;15
 }
 li.active{
 	color: #6b4305;
@@ -32,7 +32,7 @@ li.active{
 	float:right;
 }
 .icon{
-	max-width:150px;
+	/*max-width:150px;*/
 	margin: 0 auto;
 	display:block;
 }
@@ -89,6 +89,7 @@ li.active{
 	margin-top: 25px;
 }
 
+}
 footer{
 	background:#6b4305; 
 	height: 75px;
