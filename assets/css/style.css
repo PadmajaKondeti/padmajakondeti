@@ -264,6 +264,9 @@ input[type=submit] {
 	.sidebar {
 		margin-bottom: 40px;
 	}
+	.clearfix {
+        clear: both;
+ 	}		
 }
 
 @media only screen and (max-width: 640px) {
